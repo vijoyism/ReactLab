@@ -1,0 +1,9 @@
+There are numurous editors available in the market. I am going to make use of Microsoft Visual Code.
+There are 2 reasons to select this editor.
+1. It is free.
+2. It is powerful with features.
+
+The most common extenstion I am going to use are,
+1. Prettier for formatting.
+2. Material Icon theme.
+3. 
